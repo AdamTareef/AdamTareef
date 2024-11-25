@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Adam Tareef 👋
+- 🎓 Practical Software Engineering Graduate
+- 📚 Computer Science Student at Tel-Hai College
+- 💻 Experienced in Java, Python, Javascript, PHP..
+- 🌟 Open to learning and collaboration!
+
 
 <!--
 **AdamTareef/AdamTareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
